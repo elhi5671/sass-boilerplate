@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Eli Hirsch
+    Website: creative.colorado.edu/~elhi5671/dev
+    Location: Boulder, Co
+
+# THANKS
+
+    The World Wide Web
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
